@@ -13,10 +13,12 @@ A line graph that depicts the yearly total of movies and TV shows released
 
 Credit to DataScience RoadMap on Youtube. 
 
+
 Here is a link to view it:
 https://public.tableau.com/app/profile/whitney4356/viz/NetflixDashboard_16773352492040/Netflix
 
 Netflix Visualization 
+
 
 
 ![Netflix](https://user-images.githubusercontent.com/100426585/221896825-cf49c666-ad44-48b8-9070-78a9af62ffa1.png)
