@@ -6,10 +6,16 @@ The dataset used is publicly available and was downloaded from Kaggle.
 The Tableau workbook contains several visualizations, including:
 
 A bar chart of the top 10 genres on Netflix
+
 A chart presented as a bar graph that shows the quantity of ratings
+
 A map of the total Netflix movies and TV Shows by country
+
 A bubble chart displaying the distribution of TV shows and movies
+
 A line graph that depicts the yearly total of movies and TV shows released
+
+
 
 Credit to DataScience RoadMap on Youtube. 
 
